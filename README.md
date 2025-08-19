@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello! 👋
 
-<!--
-**Klvnveras/Klvnveras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo João Kelvin e atualmente estou aprendendo a usar o Github!
 
-Here are some ideas to get you started:
+Atualmente, o que mais gosto atualmente:
+[x] Jogos Digitais
+[x] Filmes
+[x] Músicas
+[x] Praticar Esportes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Minhas Principais Linguagens Utilizadas:
+
+
+#Minhas Estatísticas Gerais:
+
